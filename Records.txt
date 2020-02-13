@@ -1,0 +1,11 @@
+			--------------------------
+			         Receipt
+			--------------------------
+			Customer Name: 
+			Room Number: 6487312
+			Check in date: 2/15/2020
+			Check out date: 2/17/2020
+			Type of room: 
+			price per night: 
+			Amenities: 
+			Total Amount: 3700
