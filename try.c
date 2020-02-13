@@ -107,7 +107,7 @@ void book(){
 	printf("\t\t\t\t                 Enter Check in Date (MM/DD/YYYY): ");
     scanf("%d/%d/%d", &mon1, &day1, &year1);
     
-    printf("\t\t\t\t                 Enter out date (MM/DD/YYYY): ");
+    printf("\t\t\t\t                 Enter Check out date (MM/DD/YYYY): ");
     scanf("%d/%d/%d", &mon2, &day2, &year2);
 	
 		if(!valid_date(day1, mon1, year1))
