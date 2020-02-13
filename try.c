@@ -102,24 +102,9 @@ void book(){ //booking page
  
     int days, mon_diff, year_diff;  //date computation
 	
-<<<<<<< HEAD
 	do{
 		system("cls");
 		
-		printf("\t\t\t\t                 Enter Customer Name: ");
-		gets(fname);
-		
-		system("cls");
-		printf("\t\t\t\t                 -----------------------                \n");
-		printf("\t\t\t\t                      Enter Details                     \n");
-		printf("\t\t\t\t                 -----------------------                \n");
-		printf("\t\t\t\t                                                        \n");
-		printf("\t\t\t\t                 Enter Check in Date (MM/DD/YYYY): ");
-	    scanf("%i/%i/%i", &mon1, &day1, &year1);
-=======
-	
-	fp =fopen("Records.txt", "r+");
-	fptr = fopen("Receipt.txt", "w+");
 	
 	/*printf("\t\t\t\t                Loading information sheet                 \n");
 	printf("\t\t\t\t                     (press enter)                        \n");
@@ -149,21 +134,8 @@ void book(){ //booking page
 	        printf("\t\t\t\t                 Second date is invalid.\n");
 	        exit(0);
 	    }       
->>>>>>> a0c4943b79eac76b943a415d403a590cbb0d6748
-	    
-	    printf("\t\t\t\t                 Enter Check out date (MM/DD/YYYY): ");
-	    scanf("%i/%i/%i", &mon2, &day2, &year2);
-		
-			if(!valid_date(day1, mon1, year1))
-		    {
-		        printf("\t\t\t\t                 First date is invalid.\n");        
-		    }
-		    
-		    if(!valid_date(day2, mon2, year2))
-		    {
-		        printf("\t\t\t\t                 Second date is invalid.\n");
-		        exit(0);
-		    }       
+
+		 
 		    
 		    if(day2 < day1)
 		    {      

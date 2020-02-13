@@ -9,3 +9,12 @@
 			price per night: 
 			Amenities: 
 			Total Amount: 3700
+			--------------------------
+			         Receipt
+			--------------------------
+			Check in date: 12/20/2020
+			Check out date: 12/21/2020
+			Type of room: 
+			price per night: 
+			Amenities: 
+			Total Amount: 2200
