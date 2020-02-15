@@ -1,0 +1,9 @@
+			--------------------------
+			         Receipt
+			--------------------------
+			Check in date: 2/2/2020
+			Check out date: 2/4/2020
+			Type of room: 
+			price per night: 
+			Amenities: 
+			Total Amount: 4400
