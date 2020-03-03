@@ -1,20 +1,252 @@
 			--------------------------
 			         Receipt
 			--------------------------
-			Customer Name: 
-			Room Number: 6487312
-			Check in date: 2/15/2020
-			Check out date: 2/17/2020
-			Type of room: 
-			price per night: 
-			Amenities: 
-			Total Amount: 3700
+			Check in date: 2/3/2001
+			Check out date: 2/5/2001
+			Type of Room: Deluxe
+			Total Amount of Amenities:  3500
+			No. of Amenities: 3
+			Total Amount: 10500
 			--------------------------
 			         Receipt
 			--------------------------
-			Check in date: 12/20/2020
-			Check out date: 12/21/2020
-			Type of room: 
-			price per night: 
-			Amenities: 
-			Total Amount: 2200
+			Check in date: 2/5/2020
+			Check out date: 2/9/2020
+			Type of Room: Deluxe
+			Total Amount of Amenities:  8700
+			No. of Amenities: 2
+			Total Amount: 22700
+			--------------------------
+			         Receipt
+			--------------------------
+			Check in date: 2/2/2001
+			Check out date: 2/4/2001
+			Type of Room: Single Room
+			Total Amount of Amenities:  3100
+			No. of Amenities: 2
+			Total Amount: 6100
+			--------------------------
+			         Receipt
+			--------------------------
+			Check in date: 2/5/2001
+			Check out date: 2/6/2001
+			Type of Room: Deluxe
+			Total Amount of Amenities:  7400
+			No. of Amenities: 3
+			Total Amount: 10900
+			--------------------------
+			         Receipt
+			--------------------------
+			Check in date: 2/3/2020
+			Check out date: 2/9/2020
+			Type of Room: Single Room
+			Total Amount of Amenities:  11700
+			No. of Amenities: 2
+			Total Amount: 20700
+			--------------------------
+			         Receipt
+			--------------------------
+			Check in date: 2/9/2001
+			Check out date: 2/15/2001
+			Type of Room: Double Room
+			Total Amount of Amenities:  2900
+			No. of Amenities: 2
+			Total Amount: 17900
+			--------------------------
+			         Receipt
+			--------------------------
+			Check in date: 2/9/2001
+			Check out date: 2/15/2001
+			Type of Room: Double Room
+			Total Amount of Amenities:  5800
+			No. of Amenities: 2
+			Total Amount: 20800
+			--------------------------
+			         Receipt
+			--------------------------
+			Check in date: 2/2/2001
+			Check out date: 2/6/2001
+			Type of Room: Double Room
+			Total Amount of Amenities:  3100
+			No. of Amenities: 2
+			Total Amount: 13100
+			--------------------------
+			         Receipt
+			--------------------------
+			Check in date: 2/2/2001
+			Check out date: 3/2/2001
+			Type of Room: Double Room
+			Total Amount of Amenities:  2900
+			No. of Amenities: 2
+			Total Amount: 2900
+			--------------------------
+			         Receipt
+			--------------------------
+			Check in date: 1/2/2001
+			Check out date: 1/5/2001
+			Type of Room: Double Room
+			Total Amount of Amenities:  3100
+			No. of Amenities: 2
+			Total Amount: 10600
+			--------------------------
+			         Receipt
+			--------------------------
+			Check in date: 2/2/2001
+			Check out date: 2/9/2001
+			Type of Room: Single Room
+			Total Amount of Amenities:  2900
+			No. of Amenities: 2
+			Total Amount: 13400
+			--------------------------
+			         Receipt
+			--------------------------
+			Check in date: 2/2/2020
+			Check out date: 2/6/2020
+			Type of Room: Double Room
+			Total Amount of Amenities:  4300
+			No. of Amenities: 3
+			Total Amount: 14300
+			--------------------------
+			         Receipt
+			--------------------------
+			Check in date: 2/4/2002
+			Check out date: 2/7/2002
+			Type of Room: Double Room
+			Total Amount of Amenities:  4300
+			No. of Amenities: 3
+			Total Amount: 11800
+			--------------------------
+			         Receipt
+			--------------------------
+			Check in date: 1/1/2020
+			Check out date: 1/6/2020
+			Type of Room: Double Room
+			Total Amount of Amenities:  1700
+			No. of Amenities: 1
+			Total Amount: 14200
+			--------------------------
+			         Receipt
+			--------------------------
+			Check in date: 5/5/2002
+			Check out date: 5/26/2020
+			Type of Room: Double Room
+			Total Amount of Amenities:  2900
+			No. of Amenities: 2
+			Total Amount: 55400
+			--------------------------
+			         Receipt
+			--------------------------
+			Check in date: 8/20/2020
+			Check out date: 8/26/2020
+			Type of Room: Deluxe
+			Total Amount of Amenities:  2900
+			No. of Amenities: 2
+			Total Amount: 23900
+			--------------------------
+			         Receipt
+			--------------------------
+			Check in date: 5/20/2020
+			Check out date: 5/21/2020
+			Type of Room: Deluxe
+			Total Amount of Amenities:  4400
+			No. of Amenities: 3
+			Total Amount: 7900
+			--------------------------
+			         Receipt
+			--------------------------
+			Check in date: 2/5/2020
+			Check out date: 2/25/1792
+			Type of Room: Deluxe
+			Total Amount of Amenities:  2600
+			No. of Amenities: 2
+			Total Amount: 72600
+			--------------------------
+			         Receipt
+			--------------------------
+			Check in date: 9/2/2020
+			Check out date: 9/5/1792
+			Type of Room: Single Room
+			Total Amount of Amenities:  1700
+			No. of Amenities: 1
+			Total Amount: 6200
+			--------------------------
+			         Receipt
+			--------------------------
+			Check in date: 5/5/2020
+			Check out date: 5/6/1792
+			Type of Room: Single Room
+			Total Amount of Amenities:  1700
+			No. of Amenities: 1
+			Total Amount: 3200
+			--------------------------
+			         Receipt
+			--------------------------
+			Check in date: 2/2/2020
+			Check out date: 2/5/2020
+			Type of Room: Double Room
+			Total Amount of Amenities:  1700
+			No. of Amenities: 1
+			Total Amount: 9200
+			--------------------------
+			         Receipt
+			--------------------------
+			Check in date: 1/1/2020
+			Check out date: 1/2/2020
+			Type of Room: Deluxe
+			Total Amount of Amenities:  2600
+			No. of Amenities: 2
+			Total Amount: 6100
+			--------------------------
+			         Receipt
+			--------------------------
+			Check in date: 12/31/2019
+			Check out date: 12/33/2019
+			Type of Room: Double Room
+			Total Amount of Amenities:  2900
+			No. of Amenities: 2
+			Total Amount: 7900
+			--------------------------
+			         Receipt
+			--------------------------
+			Check in date: 12/31/2019
+			Check out date: 12/33/2019
+			Type of Room: Single Room
+			Total Amount of Amenities:  1700
+			No. of Amenities: 1
+			Total Amount: 4700
+			--------------------------
+			         Receipt
+			--------------------------
+			Check in date: 12/31/2019
+			Check out date: 1/2/2019
+			Type of Room: Double Room
+			Total Amount of Amenities:  1400
+			No. of Amenities: 1
+			Total Amount: 6400
+			--------------------------
+			         Receipt
+			--------------------------
+			Check in date: 1/31/2001
+			Check out date: 1/33/2001
+			Type of Room: Double Room
+			Total Amount of Amenities:  3100
+			No. of Amenities: 2
+			Total Amount: 8100
+			--------------------------
+			         Receipt
+			--------------------------
+			Check in date: 1/31/2020
+			Check out date: 1/33/2020
+			Type of Room: Double Room
+			Total Amount of Amenities:  1700
+			No. of Amenities: 1
+			Total Amount: 6700
+			--------------------------
+			         Receipt
+			--------------------------
+			Check in date: 12/31/2019
+			Check out date: 12/33/2019
+			Type of Room: Double Room
+			Total Amount of Amenities:  2700
+			No. of Amenities: 2
+			Total Amount: 7700
