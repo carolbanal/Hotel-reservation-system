@@ -1,14 +1,9 @@
 			--------------------------
 			         Receipt
 			--------------------------
-			Check in date: 12/31/2019
-			Check out date: 1/2/2020
-			--------------------------
-			         Receipt
-			--------------------------
-			Check in date: 12/31/2019
-			Check out date: 12/33/2019
+			Check in date: 3/11/2020
+			Check out date: 3/13/2020
 			Type of Room: Double Room
-			No. of Amenities: 2
-			Total Amount of Amenities: 2700
-			Total Amount: 7700
+			No. of Amenities: 1
+			Total Amount of Amenities: 1700
+			Total Amount: 6700
