@@ -250,3 +250,12 @@
 			Total Amount of Amenities:  2700
 			No. of Amenities: 2
 			Total Amount: 7700
+			--------------------------
+			         Receipt
+			--------------------------
+			Check in date: 3/11/2020
+			Check out date: 3/13/2020
+			Type of Room: Double Room
+			Total Amount of Amenities:  1700
+			No. of Amenities: 1
+			Total Amount: 6700
